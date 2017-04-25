@@ -22,3 +22,4 @@ release date
 
 Go to PopularMovies_Stage_1/app/src/main/java/com/example/sebas/popularmovies/utilities/NetworkUtils.java and change USE_YOUR_API_KEY with your own API KEY.
 
+ 
